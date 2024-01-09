@@ -1,6 +1,7 @@
+# Contact Information
+
 <img src="https://img.freepik.com/premium-photo/people-connect-through-contact-us-customer-support-hotline-concept-finger-touch-access-contact-icons-email-address-virtual-screen-internet-wifi-represents-digital-communication-banner_143683-12449.jpg"/>
 
-Contact Information
 For any inquiries or support, please email us at support@localdiningguide.com or visit our
 website http://www.localdiningguide.com.
 
